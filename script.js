@@ -12,7 +12,6 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
             errorElement.textContent = '';
             console.log('Form submitted successfully');
-            // add code here to submit the form or process the data
         }
     });
 });
