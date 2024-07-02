@@ -8,7 +8,7 @@ body {
 
 .background {
     flex: 1;
-    background-image: url('fern-background.jpg');
+    background-image: url('images/mystical.jpg');
     background-size: cover;
     background-position: center;
 }
