@@ -34,6 +34,8 @@ h1 {
 form {
     display: grid;
     gap: 1rem;
+    width: 100%; 
+    max-width: 400px; 
 }
 
 input {
