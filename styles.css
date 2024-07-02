@@ -37,6 +37,12 @@ form {
     width: 100%; 
     max-width: 400px; 
 }
+.form-footer {
+    text-align: left;
+    padding-top: 1rem;
+    font-size: 0.9rem;
+    color: #555;
+}
 
 input {
     width: 100%;
